@@ -2,6 +2,6 @@
 
 <a href="https://chromedino.com">
   <picture>
-    <img alt="Dino Game" src="./images/dino.gif" width="600" />
+    <img alt="Dino Game" src="./images/dino.gif" />
   </picture>
 </a>
